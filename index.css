@@ -809,7 +809,8 @@ body {
   /* margin-top: 20%; */
   font-family: "Rubik", sans-serif;
   /* background: #e5ecf1; */
-  color: white;
+  color: #f7f7f7;
+  /* -webkit-text-stroke: 1px #1e90ff; */
   padding: 20px;
 }
 
@@ -905,7 +906,7 @@ body {
   background: white;
   color: #000;
   border-radius: 12px;
-  padding: 30px 20px;
+  padding: 45px 20px;
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
@@ -930,7 +931,7 @@ body {
 .table-right-Font-Yeodrex-Marketplace {
   display: flex;
   flex-direction: column;
-  gap: 25px;
+  gap: 55px;
 }
 
 .table-left-Font-Yeodrex-Marketplace p {
@@ -938,7 +939,7 @@ body {
 }
 
 .table-right-Font-Yeodrex-Marketplace p {
-  font-weight: 400;
+  font-weight: 700;
 }
 
 .headline-h1-Font-Yeodrex-Marketplace {
@@ -1015,6 +1016,11 @@ body {
 
 .font-name-Font-Yeodrex-Marketplace {
   font-size: 48px;
+  /* -webkit-text-stroke: 1px #1e90ff; */
+}
+.outline-Yeodrex-Marketplace {
+  -webkit-text-stroke: 1px #1e90ff;
+  font-size: 102px;
 }
 
 .font-name-Font-Yeodrex-Marketplace .bold-Font-Yeodrex-Marketplace {
