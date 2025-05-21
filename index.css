@@ -770,6 +770,7 @@ body {
   height: 67px;
   font-weight: bold;
   font-size: 19px;
+  margin-bottom: 5px;
 }
 
 .task-Yeodrex-Yeodrex-Marketplace.blue-Yeodrex-Yeodrex-Marketplace {
@@ -1239,13 +1240,16 @@ body {
 
 @media (max-width: 768px) {
   .heading-1-Yeodrex-Yeodrex-Marketplace {
-    font-size: 2.2rem;
+    font-size: 47px;
+  }
+  .wrapper-Yeodrex-Yeodrex-Marketplace {
+    height: 205px;
   }
 }
 
 @media (max-width: 480px) {
   .heading-1-Yeodrex-Yeodrex-Marketplace {
-    font-size: 68px;
+    font-size: 47px;
   }
 }
 /*  */
